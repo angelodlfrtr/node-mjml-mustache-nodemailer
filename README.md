@@ -10,7 +10,7 @@
 
 ```javascript
 
-var client = require('node-mjml-mustache-nodemailer');
+var Client = require('node-mjml-mustache-nodemailer');
 
 var config = {
   // Default mail sender
@@ -25,6 +25,8 @@ var config = {
     port: 1025
   }
 };
+
+var client = new Client(config);
 
 // Set template file path
 var template_path = './test.mjml.mustache';
