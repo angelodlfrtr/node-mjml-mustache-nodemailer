@@ -1,6 +1,6 @@
 {
   "name": "node-mjml-mustache-nodemailer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Send emails using nodemailer, mustache and mjml templates",
   "main": "index.js",
   "scripts": {
