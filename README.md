@@ -44,7 +44,7 @@ client.sendMail(template_path, template_data, {
 });
 ```
 
-# LICENSE
+## LICENSE
 
 The MIT License (MIT)
 
