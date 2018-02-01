@@ -23,6 +23,10 @@ var config = {
   smtp: {
     host: '127.0.0.1',
     port: 1025
+  },
+  // Use partials widh mustache
+  partials: {
+    my_template_name: 'My template str'
   }
 };
 
