@@ -26,7 +26,7 @@
   "homepage": "https://github.com/angelodlfrtr/node-mjml-mustache-nodemailer#readme",
   "dependencies": {
     "bluebird": "^3.3.5",
-    "mjml": "^2.0.0",
+    "mjml": "^4.6.2",
     "mustache": "^2.2.1",
     "nodemailer": "^2.3.2"
   }
