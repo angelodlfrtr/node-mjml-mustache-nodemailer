@@ -28,6 +28,6 @@
     "bluebird": "^3.3.5",
     "mjml": "^2.0.0",
     "mustache": "^2.2.1",
-    "nodemailer": "^2.3.2"
+    "nodemailer": "^6.4.16"
   }
 }
